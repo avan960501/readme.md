@@ -9,6 +9,7 @@
    # 個人介紹
 
 ## 基本資料 
+<img width="300" height="300" alt="0" src="https://github.com/user-attachments/assets/2a9b9eeb-d032-4421-af64-9cd4b2338e63" />
 
 - **姓名：** 宋承穎
 - **學號：** 1143145
